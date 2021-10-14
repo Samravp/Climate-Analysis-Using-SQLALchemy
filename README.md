@@ -16,7 +16,7 @@ For station analysis section, I designed a query to calculate the total number o
 
 Continueing on, I also designed a query to retrieve the last 12 months of temperature observation data relating to the most active station (TOBS) and plotted the results as a histogram.
 
-<img src="https://user-images.githubusercontent.com/85004202/137278205-dadbd0d7-04f4-4ecf-ac2a-3851b4e4d38f.png" width="500" height="375">
+<img src= width="500" height="375">
 
 ### Temperature Analysis I
 
