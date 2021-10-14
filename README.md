@@ -16,15 +16,13 @@ For station analysis section, I designed a query to calculate the total number o
 
 Continueing on, I also designed a query to retrieve the last 12 months of temperature observation data relating to the most active station (TOBS) and plotted the results as a histogram.
 
-![image](https://user-images.githubusercontent.com/85004202/137278205-dadbd0d7-04f4-4ecf-ac2a-3851b4e4d38f.png)
-
+<img src="https://user-images.githubusercontent.com/85004202/137278205-dadbd0d7-04f4-4ecf-ac2a-3851b4e4d38f.png" width="500" height="375">
 
 ### Temperature Analysis I
 
 I identified the average temperature in June and also in December at all stations across all available years in the dataset and followed by using a t-test to determine whether the difference in the means, is statistically significant. 
 
-![image](https://user-images.githubusercontent.com/85004202/137278259-1daa50a0-0b2c-4179-b2b6-debbffcb95d2.png)
-
+<img src="https://user-images.githubusercontent.com/85004202/137278259-1daa50a0-0b2c-4179-b2b6-debbffcb95d2.png" width="500" height="375">
 
 ### Temperature Analysis II
 
@@ -34,8 +32,7 @@ I used this function to calculate the min, avg, and max temperatures for my trip
 
 I plotted the min, avg, and max temperature from my previous query as a bar chart.
 
-![image](https://user-images.githubusercontent.com/85004202/137278320-09f999b1-1507-4044-991f-3eb963e0cf71.png)
-
+<img src="https://user-images.githubusercontent.com/85004202/137278320-09f999b1-1507-4044-991f-3eb963e0cf71.png" width="500" height="375">
 
 ### Daily Rainfall Average
 
@@ -49,8 +46,7 @@ Then, I loaded the list of daily normals into a Pandas DataFrame and set the ind
 
 I used Pandas to plot an area plot (`stacked=False`) for the daily normals.
 
-![image](https://user-images.githubusercontent.com/85004202/137278377-bac74d1c-db21-4cf9-9587-2408d575e630.png)
-
+<img src="https://user-images.githubusercontent.com/85004202/137278377-bac74d1c-db21-4cf9-9587-2408d575e630.png" width="500" height="375">
 
 ## Climate App
 
