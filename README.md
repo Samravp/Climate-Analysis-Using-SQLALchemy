@@ -8,7 +8,7 @@ In this project, I used Python and SQLAlchemy to do basic climate analysis and d
 
 I designed a query to retrieve the last 12 months of precipitation data and then loaded the query results into a Pandas DataFrame to plot the results using the DataFrame `plot` method.
 
-<img src="https://user-images.githubusercontent.com/85004202/137277836-18d4ece1-f86b-4318-9477-86235ee55ad3.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/85004202/137277836-18d4ece1-f86b-4318-9477-86235ee55ad3.png" width="1000" height="750">
 
 ### Station Analysis
 
