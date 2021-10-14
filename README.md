@@ -32,7 +32,7 @@ I used this function to calculate the min, avg, and max temperatures for my trip
 
 I plotted the min, avg, and max temperature from my previous query as a bar chart.
 
-<img src="https://user-images.githubusercontent.com/85004202/137278320-09f999b1-1507-4044-991f-3eb963e0cf71.png" width="500" height="375">
+<img src="https://user-images.githubusercontent.com/85004202/137278320-09f999b1-1507-4044-991f-3eb963e0cf71.png" width="200" height="375">
 
 ### Daily Rainfall Average
 
