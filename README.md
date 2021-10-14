@@ -8,6 +8,8 @@ In this project, I used Python and SQLAlchemy to do basic climate analysis and d
 
 I designed a query to retrieve the last 12 months of precipitation data and then loaded the query results into a Pandas DataFrame to plot the results using the DataFrame `plot` method.
 
+https://github.com/Samravp/sqlalchemy-challenge/blob/a1595e211037abb55b0758e5aceb1784846124ba/Images/Precipitation_Plot.png
+
 ### Station Analysis
 
 For station analysis section, I designed a query to calculate the total number of stations and another query to find the most active stations.
